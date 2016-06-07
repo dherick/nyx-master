@@ -14,10 +14,4 @@ Com o acesso a essas informações, a Assessoria pretende adquirir maior seguran
 Elton Silva
 
 ####Programadores:
-Flavio Kon
-
-Lucas Correa Silva
-
-Makiesse Antonio
-
-Vitor Correa
+ Dherick Soares Longo
